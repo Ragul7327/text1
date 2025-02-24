@@ -1,4 +1,4 @@
-# mini project
+# Mini project
 Flower Prediction Project
 Description: This project leverages machine learning models to predict the type of flower based on its features (such as petal length, petal width, sepal length, and sepal width). It typically uses datasets like the popular Iris dataset, which contains data on various species of flowers, including Iris-setosa, Iris-versicolor, and Iris-virginica. The goal of this project is to develop a model that can classify a given flower into one of these species or any other category depending on the dataset used.
 
